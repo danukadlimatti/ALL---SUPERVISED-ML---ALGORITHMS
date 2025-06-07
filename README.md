@@ -1,1 +1,1 @@
-### You find here all Supervised machine learning algorithms.
+### All SUPERVISED MACHINE LEARNING ALGORITHMS 
